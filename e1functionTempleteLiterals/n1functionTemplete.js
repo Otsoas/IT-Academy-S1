@@ -5,6 +5,7 @@ function imprimirNombre(nombre) {
   console.log(`El nombre del usuario es ${nombre}`);
 };
 imprimirNombre(`Loli`);
+
 //Otra forma con arrow function
 //sin parentesis en parametro y sin llaves en ejecucion
 //por tener solo u parametro y ocupar una linea la ejecucion

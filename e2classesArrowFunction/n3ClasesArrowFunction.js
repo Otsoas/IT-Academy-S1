@@ -23,7 +23,7 @@ function Perro(nombre, raza, sonido) {
 //Herencia
 Perro.prototype = Object.create(Animal.prototype);
 //imprimidos metodo y pasamos parametros
-var perro = new Perro('Omega', 'felina', 'guau');
+var perro = new Perro('Omega', 'canina', 'guau');
 console.log(perro.definicionCompleta());
 
 

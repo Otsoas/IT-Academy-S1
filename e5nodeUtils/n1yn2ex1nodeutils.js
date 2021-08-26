@@ -52,22 +52,7 @@ function comprimirArchivo() {
 };
 comprimirArchivo();
 
-//? /////level 2 exercise 1b///////////////////////////
-// function mostrarDirectorio() {
-//   exec('ls -a', (error, stdout, stderr) => {
-//     if (error) {
-//       console.log(`error: ${error.message}`);
-//       return;
-//     };
-//     if (stderr) {
-//       console.log(`stderr: ${stderr}`);
-//       return;
-//     };
-//     console.log(`Sprint 1 Node Utils nivel 2 ejercicio 1b`);
-//     console.log(`stdout: ${stdout}`);
-//   });
-// };
-//mostrarDirectorio();
+
 
 //? /////level 3 exercise 1a///////////////////////////
 // function codificacionHex() {
